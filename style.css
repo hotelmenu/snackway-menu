@@ -221,13 +221,13 @@ a {
     font-size: 22px;
 }
 .empty-div {
-    padding: 100px;
+    padding: 130px;
 }
 
 /* Classes Menu Page */
 .changing-image{
     max-width: 500px;
-    max-height: 150px;
+    max-height: 250px;
     overflow: hidden;
     border-radius: 14px; 
     box-sizing: border-box;
