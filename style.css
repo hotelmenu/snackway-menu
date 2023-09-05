@@ -311,14 +311,14 @@ a {
 
 @media (min-width: 500px){
     .home-btn{
-        background-color: rgba(86, 86, 86, 0.75);
+        background-color:  rgba(80, 158, 80, 0.75);
         color: #fff;
         padding: 5px;
         left: 0%;
         position: fixed;
         bottom: 0px;
         align-items: center;
-        width: 100px;
+        width: 200px;
         z-index: 200;
         border-radius: 14px;
         text-align: center;
