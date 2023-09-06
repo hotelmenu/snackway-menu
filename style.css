@@ -213,7 +213,12 @@ a {
 }
 
 .text-two {
-    margin-bottom: 33px;
+    margin-bottom: 3px;
+}
+
+.text-three {
+    margin-top: -10px;
+    margin-bottom: 3px;
 }
 
 .text-one {
